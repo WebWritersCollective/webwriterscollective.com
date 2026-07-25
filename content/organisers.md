@@ -13,7 +13,7 @@ Our other organisers are listed below in alphabetical order:
 
 ***Brennan Kenneth Brown*** [Website](https://brennan.day) **—** [Email](mail@brennanbrown.ca) **—** Signal: [`@brennan.04`](https://signal.me/#eu/CWQvwj8f-ksHCpDkuPE_EizbOXDmH5-eBtKFMNB3-R2r-gG3oY5JzY759Yl7q5wV) **—** Fediverse: `@brennan@social.lol`
 
-***Naty S.*** [Website](https://burgeonlab.com/) **—** [Contact](https://burgeonlab.com/contact/)
+***Naty S.*** [Website](https://burgeonlab.com/) **—** [Contact](https://burgeonlab.com/contact/) **—** [Mastodon](https://fosstodon.org/@eclecticpassions)
 
 ***V.H. Belvadi*** [Website](https://vhbelvadi.com) **—** [Email](mailto:hello@vhbelvadi.com) **—** [Signal](https://signal.me/#eu/RBqtaVYC8Kkdm586KMc9Js_6GJJ1_p5rWzueJqqGjmFwKn8dEBlE1Ycsnq8_5ulx) **—** [Bluesky](https://bsky.app/profile/vhbelvadi.com)
 

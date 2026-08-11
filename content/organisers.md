@@ -22,6 +22,8 @@ The collective was originally brought together by James, who also serves as admi
     {{< organiser name="Naty S" website="https://burgeonlab.com/" contact_page="https://burgeonlab.com/contact/" pronouns="she/her" other_label_1="Mastodon" other_link_1="https://fosstodon.org/@eclecticpassions">}}
     <!-- V.H. Belvadi -->
     {{< organiser name="V.H. Belvadi" pronouns="he/him" website="https://vhbelvadi.com" email="wwc@vhbelvadi.com" signal_link="https://signal.me/#eu/RBqtaVYC8Kkdm586KMc9Js_6GJJ1_p5rWzueJqqGjmFwKn8dEBlE1Ycsnq8_5ulx" other_label_1="Bluesky" other_link_1="https://bsky.app/profile/vhbelvadi.com" >}}
+    <!-- Pablo Enoc -->
+    {{< organiser name="Pablo Enoc" website="https://enocc.com" email="pablo@enocc.com" >}}
 </div>
 
 # Volunteer

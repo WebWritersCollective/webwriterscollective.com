@@ -71,6 +71,14 @@
       "webring": {
         "enabled": true
       }
+    },
+    {
+      "user": "Marisabel",
+      "name": "Marisabel",
+      "url": "https://marisabel.nl",
+      "webring": {
+        "enabled": true
+      }
     }
   ]
 }

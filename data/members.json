@@ -41,6 +41,14 @@
       }
     },
     {
+      "user": "amin",
+      "name": "Benjamin Hollon",
+      "url": "https://benjaminhollon.com/",
+      "webring": {
+        "enabled": true
+      }
+    },
+    {
       "user": "juhis",
       "name": "Juhis",
       "url": "https://hamatti.org",

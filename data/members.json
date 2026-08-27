@@ -71,6 +71,14 @@
       "webring": {
         "enabled": true
       }
+    },
+    {
+      "user": "kedara",
+      "name": "Ruben Verweij",
+      "url": "https://kedara.eu",
+      "webring": {
+        "enabled": true
+      }
     }
   ]
 }

@@ -103,6 +103,14 @@
       "webring": {
         "enabled": true
       }
+    },
+    {
+      "user": "CactiChameleon9",
+      "name": "Daniel",
+      "url": "https://doserver.top",
+      "webring": {
+        "enabled": true
+      }
     }
   ]
 }

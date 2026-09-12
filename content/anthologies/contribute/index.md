@@ -45,6 +45,6 @@ While we request contributors to publish their contributions to *Anthologies* ex
 
 When you are ready to submit, please email your writing, preferrably in markdown, to [submissions@webwriterscollective.com](mailto:submissions@webwriterscollective.com?subject=%5BCONTRIBUTION%5D%20%3CYour%20byline%20here%3E&body=Please%20make%20sure%20you%20have%20given%20us%20your%20name%20(or%20byline%2C%20including%20pseudonym)%2C%20a%20title%2C%20a%20subtitle%2C%20your%20writing%20and%20any%20original%20artwork.) preferrably with the flag `[CONTRIBUTION]` in the subject along with your name (or just click on the email link above and we will fill it in for you).
 
-At any and all points in your creative process, feel free to brainstorm, ask questions, share drafts, and otherwise collaborate in the group chat.
+At any and all points in your creative process, feel free to brainstorm, ask questions, share drafts, and otherwise collaborate in the forum.
 
 While we all write for the web, submissions do not need to be about the web. In fact, we encourage you to interpret themes creatively. If you have an idea that feels good to you, it’s likely it is right for *Anthologies*.

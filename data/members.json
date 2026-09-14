@@ -111,6 +111,14 @@
       "webring": {
         "enabled": true
       }
+    },
+    {
+      "user": "FeyWriters",
+      "name": "Faith Harkey",
+      "url": "https://faithharkey.com",
+      "webring": {
+        "enabled": true
+      }
     }
   ]
 }

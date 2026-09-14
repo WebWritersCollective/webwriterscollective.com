@@ -21,8 +21,11 @@
         <div class="lg:sticky lg:top-2">
             <h1>{{ .Title }}</h1>
             <h2>{{ .Params.subtitle }}</h2>
-            {{ if isset .Params "toc" }}
+            {{ if and (isset .Params "toc") (eq .Params.toc true) }}
                 {{ .TableOfContents }}
+            {{ end }}
+            {{ if and .Params.button_link .Params.button_text }}
+                <a href="{{ .Params.button_link }}" class="button secondary">{{ .Params.button_text }}</a>
             {{ end }}
         </div>
     </header>

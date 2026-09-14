@@ -33,6 +33,8 @@
 
     /* Colours */
     --color-accent: var(--accent);
+    --color-accent-cyan: var(--accent-cyan);
+    --color-accent-cyan-dark: var(--accent-cyan-dark);
     --color-foreground: rgb(var(--foreground));
     --color-background: rgb(var(--background));
     --color-offset: rgb(var(--offset));
@@ -95,6 +97,8 @@
     --background: 242 244 247;
     --offset: 255 255 255;
     --accent: #F46324; /*#F43400;*/
+    --accent-cyan: #74E5F0;
+    --accent-cyan-dark: #2ACFE0;
     --article-width: 640px;
 
     --spacer: 16px;

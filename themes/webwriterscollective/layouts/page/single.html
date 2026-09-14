@@ -7,11 +7,6 @@
             {{ if and (isset .Params "toc") (eq .Params.toc true) }}
                 {{ .TableOfContents }}
             {{ end }}
-            {{ with .Parent }}
-                {{ if and .Params.button_link .Params.button_text }}
-                    <a href="{{ .Params.button_link }}" class="button secondary">{{ .Params.button_text }}</a>
-                {{ end }}
-            {{ end }}
             {{ if and .Params.button_link .Params.button_text }}
                 <a href="{{ .Params.button_link }}" class="button secondary">{{ .Params.button_text }}</a>
             {{ end }}

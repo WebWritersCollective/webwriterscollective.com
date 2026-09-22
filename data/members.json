@@ -119,6 +119,14 @@
       "webring": {
         "enabled": true
       }
+    },
+    {
+      "user": "joelchrono",
+      "name": "Joel",
+      "url": "https://joelchrono.xyz",
+      "webring": {
+        "enabled": true
+      }
     }
   ]
 }

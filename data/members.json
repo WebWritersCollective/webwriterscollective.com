@@ -127,6 +127,14 @@
       "webring": {
         "enabled": true
       }
+    },
+    {
+      "user": "J_Lopes",
+      "name": "J Lopes",
+      "url": "https://jlopes.eu/",
+      "webring": {
+        "enabled": true
+      }
     }
   ]
 }

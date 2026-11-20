@@ -136,5 +136,13 @@
         "enabled": true
       }
     }
+    {
+      "user": "lecaseus",
+      "name": "Chezter V",
+      "url": "https://cheztervargas.com",
+      "webring": {
+        "enabled": true
+      }
+    }
   ]
 }
